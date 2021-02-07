@@ -2,7 +2,7 @@
 
   <li>1. In this example, we have defined three set variables and we have performed different set operations: union, intersection and difference.  </li>
   <li>2. In this excersice we have used Lua's tables as sets because of the lack of a module that supports sets operations, unlike the pyhton example.</li>
-  <h1>3. As I was writting the code I came to the realization that Lua has a lot  more of inconveniences than any other programming language I've code before in. </h1>
+  <li>3. As I was writting the code I came to the realization that Lua has a lot  more of inconveniences than any other programming language I've code before in. </li>
 
 
 ## Source Code

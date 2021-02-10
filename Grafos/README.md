@@ -1,7 +1,7 @@
 ## Kotlin Program to Illustrate Graph Theory
 
 In this program we have declared a simple graph with 5 nodes (a,b,c,d,e) and 10 edges ([d -> c, b -> e, c -> d, c -> e, e -> c, a -> c, c -> b, e -> b, b -> c, c -> a]) to exemplify the usage and implementation of graph theory in Kotlin.
-To achieve this, we used an external API called [Kgraph][https://github.com/lamba92/KGraph] that lets us declare and modify graphs with unidirectional egdes and bidirectional edges.
+To achieve this, we used an external API called [Kgraph](https://github.com/lamba92/KGraph) that lets us declare and modify graphs with unidirectional egdes and bidirectional edges.
 
 ## Source Code
 
